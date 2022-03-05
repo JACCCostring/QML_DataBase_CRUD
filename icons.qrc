@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Insert.jpg.ico</file>
+        <file>Update.png</file>
+        <file>Delete.ico</file>
+        <file>Search.png</file>
+        <file>UpdateT.jpg.ico</file>
+    </qresource>
+</RCC>
