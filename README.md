@@ -1,6 +1,6 @@
 # QML_DataBase_CRUD
 
-This was developed with C++ for backend SQLite and QML Quick 2 for UI frontend.
+This was developed with Qt framework and C++, SQLite for backend and QML for the UI.
 
 ![image](https://user-images.githubusercontent.com/93591202/201938416-f382f4a3-ce5f-4acd-b2c9-24bb978edbe2.png)
 
