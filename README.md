@@ -1,4 +1,4 @@
-# QML_DataBase_CRUD
+# DataBase Manager
 
 Database manager for records in SQLite database and Qt-SQL module was used to achieved interface between SQLite and the backend, made with C++ 11 and some 14 features and for UI QML and QtQuick 2 controllers.
 
